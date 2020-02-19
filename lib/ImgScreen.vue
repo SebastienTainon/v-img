@@ -82,6 +82,7 @@ export default {
       uiTimeout: null,
       handlers: {},
       thumbnails: false,
+      imgGroup: null,
     };
   },
   watch: {
